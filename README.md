@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ImClin
+- 👀 I’m interested in gaming and making plugins for minecraft
+- 🌱 I’m currently learning Java, Java Script, HTML and CSS
+- 📫 How to reach me:
+  - Discord: Clin#3391
