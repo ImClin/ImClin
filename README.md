@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @ImClin
-- 👀 I’m interested in gaming and making plugins for minecraft
-- 🌱 I’m currently learning Java, Java Script, HTML and CSS
+- 👀 I’m interested in Gaming and making things that come up to my mind.
+  - Discord bots
+  - Simple Minecraft plugins
+  - Basic HTML, JS and CSS sites
+- 🌱 I’m currently learning Java Script, HTML and CSS
 - 📫 How to reach me:
-  - Discord: Clin#3391
+  - Discord: Clin#9393
+  - Discord id: 866047772980805652
