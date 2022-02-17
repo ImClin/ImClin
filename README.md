@@ -3,7 +3,7 @@
   - Discord bots
   - Simple Minecraft plugins
   - Basic HTML, JS and CSS sites
-- 🌱 I’m currently learning Java Script, HTML and CSS
+- 🌱 I’m currently learning JavaScript, HTML and CSS
 - 📫 How to reach me:
   - Discord: Clin#9393
   - Discord id: 866047772980805652
