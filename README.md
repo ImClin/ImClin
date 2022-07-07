@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ImClin
 - 👀 I’m interested in Gaming and making things that come up to my mind.
   - Discord bots
-  - Simple Minecraft plugins
-  - Basic HTML, JS and CSS sites
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+  - HTML, JS and CSS sites
+- 🌱 I’m currently learning JavaScript, HTML and CSS (Working on MySQL SOON)
 - 📫 How to reach me:
   - Discord: Clin#9393
   - Discord id: 866047772980805652
