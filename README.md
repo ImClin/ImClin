@@ -4,5 +4,4 @@
   - HTML, JS and CSS sites (Soon TypeScript & MySQL)
 - 🌱 I’m currently learning JavaScript, HTML and CSS (Working on MySQL & TypeScript SOON)
 - 📫 How to reach me:
-  - Discord: Clin#0001
-  - Discord id: 866047772980805652
+  - Discord: [Clin#0001](https://discordapp.com/users/866047772980805652/)
