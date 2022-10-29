@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImClin
+- 👋 Hi, I’m https://github.com/ImClin/
 - 👀 I’m interested in Gaming and making things that come up to my mind.
   - School things
   - HTML, CSS, JavaScript websites
