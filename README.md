@@ -4,4 +4,4 @@
   - HTML, CSS, JavaScript websites
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, C# & PHP
 - 📫 How to reach me:
-  - Discord: [Clin#0001](https://discordapp.com/users/866047772980805652/)
+  - Discord: [imclin](https://discordapp.com/users/866047772980805652/)
