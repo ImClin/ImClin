@@ -1,7 +1,8 @@
 - 👋 Hi, I’m [@ImClin](https://github.com/ImClin/)
 - 👀 I’m interested in Gaming and making things that come up to my mind.
   - School things
-  - HTML, CSS, JavaScript websites
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, C# & PHP
+  - Websites
+  - Discord Bots
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL & Java
 - 📫 How to reach me:
   - Discord: [imclin](https://discordapp.com/users/866047772980805652/)
